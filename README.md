@@ -1,13 +1,13 @@
 # React Tutorial - Expense Tracker
  
- I learned about react Hooks ( useState , useReducer, useContext), and the Context API which allows us to centralize the State so it can be acessible by all children components.
+ I learned about react Hooks ( useState , useReducer, useContext, useEffect), and the Context API which allows us to centralize the State so it can be acessible by all children components.
 
  # About the App:
  It is a simple Expense Tracker, the user can 'CREATE' a Transaction, 'DELETE' a Transaction, 'READ' Transactions.
 
 
 # What i added :
-I added a simple localStorage so the transacrions could be saved after page refresh.
+I added a simple localStorage so the transactions could be saved after page refresh.
 
 
 
